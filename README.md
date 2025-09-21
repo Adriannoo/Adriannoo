@@ -23,6 +23,8 @@ For collaborations, projects, or discussions about the craft of software, you ca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adriannoo&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriannoo&layout=compact&langs_count=7&theme=dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Adriannoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
