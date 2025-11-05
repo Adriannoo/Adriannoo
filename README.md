@@ -17,9 +17,9 @@ Sou **Adriano Ramos**, estudante de **Engenhaira de Software / Análise e Desenv
 
 ### 📫 Contato 
 Para contato e encher o meu saco, veja minhas redes sociais:  
-[GitHub](https://github.com/Adriannoo)
-[Linkedin](https://www.linkedin.com/in/adriannoo-ramos/)
-[Instagram](https://www.instagram.com/adriannoorms/)
+* [GitHub](https://github.com/Adriannoo) 
+* [Linkedin](https://www.linkedin.com/in/adriannoo-ramos/)
+* [Instagram](https://www.instagram.com/adriannoorms/)
 
 ---
 
