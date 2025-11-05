@@ -4,7 +4,7 @@
 
 ---
 
-### 🕯️ About Me  
+### 🕯️ Eu  
 Sou **Adriano Ramos**, estudante de **Engenhaira de Software / Análise e Desenvolvimento de Sistemas**.   
 
 ---
