@@ -1,23 +1,25 @@
 # Adriano Ramos
 
-> *"In the silence, truth reveals itself."*
+> *"Penso noventa e nove vezes e nada descubro; deixo de pensar, mergulho em profundo silêncio – e eis que a verdade se me revela"*
 
 ---
 
 ### 🕯️ About Me  
-I am **Adriano Ramos**, a student of **Software Engineering / Analysis and Systems Development**.   
+Sou **Adriano Ramos**, estudante de **Engenhaira de Software / Análise e Desenvolvimento de Sistemas**.   
 
 ---
 
-### ⚔️ Skills & Tools  
-- **Languages:** C, Python, JavaScript, Java (learning, exploring, mastering step by step)  
-- **Focus:** Data structures, algorithms, software design, and problem solving  
+### ⚔️ Conhecimentos  
+- **Linguagens:** C, Python, Banco de Dados SQL, JavaScript, Java (Aprendendo, descobrindo, aperfeiçoando no tempo livre...)  
+- **Foco:** Estrutura de Dados, algoritmos, resolução de problemas.  
 
 ---
 
-### 📫 Reach Me  
-For collaborations, projects, or discussions about the craft of software, you can find me here:  
-[GitHub Profile](https://github.com/Adriannoo)  
+### 📫 Contato 
+Para contato e encher o meu saco, veja minhas redes sociais:  
+[GitHub](https://github.com/Adriannoo)
+[Linkedin](https://www.linkedin.com/in/adriannoo-ramos/)
+[Instagram](https://www.instagram.com/adriannoorms/)
 
 ---
 
