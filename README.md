@@ -10,7 +10,7 @@ Sou **Adriano Ramos**, estudante de **Engenhaira de Software / Análise e Desenv
 ---
 
 ### ⚔️ Conhecimentos  
-- Low Level Programming, Linux, C, Python, Banco de Dados SQL, JavaScript, Java (Aprendendo, descobrindo, aperfeiçoando no tempo livre...)  
+- Low Level Programming, Linux, C, Python, Banco de Dados SQL, JavaScript, NodeJS, Java (Aprendendo, descobrindo, aperfeiçoando no tempo livre...)  
 
 ---
 
