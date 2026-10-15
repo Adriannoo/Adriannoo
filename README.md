@@ -33,6 +33,10 @@ Tecnologias que utilizo e estudo nos meus repositórios.
 ![Node.js](https://img.shields.io/badge/Node.js-252525?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-252525?style=flat-square&logo=express&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-252525?style=flat-square)
+![Lombok](https://img.shields.io/badge/Lombok-252525?style=flat-square)
+![OpenFeign](https://img.shields.io/badge/Spring_Cloud_OpenFeign-252525?style=flat-square)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-252525?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-252525?style=flat-square&logo=leaflet&logoColor=white)
 
 ### <img src="assets/database.svg" width="22" height="22" alt=""> Banco de dados e persistência
 
@@ -40,6 +44,8 @@ Tecnologias que utilizo e estudo nos meus repositórios.
 ![Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-252525?style=flat-square&logo=hibernate&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-252525?style=flat-square&logo=flyway&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-252525?style=flat-square)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-252525?style=flat-square)
+![TypeORM](https://img.shields.io/badge/TypeORM-252525?style=flat-square)
 
 ### <img src="assets/tools.svg" width="22" height="22" alt=""> Testes e ferramentas
 
@@ -48,10 +54,17 @@ Tecnologias que utilizo e estudo nos meus repositórios.
 ![Maven](https://img.shields.io/badge/Maven-252525?style=flat-square&logo=apachemaven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit_5-252525?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-252525?style=flat-square)
-![Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-252525?style=flat-square&logo=swagger&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-252525?style=flat-square&logo=vitest&logoColor=white)
+![unittest](https://img.shields.io/badge/unittest-252525?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-252525?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-252525?style=flat-square&logo=insomnia&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger_UI-252525?style=flat-square&logo=swagger&logoColor=white)
+![npm](https://img.shields.io/badge/npm-252525?style=flat-square&logo=npm&logoColor=white)
+![Angular CLI](https://img.shields.io/badge/Angular_CLI-252525?style=flat-square&logo=angular&logoColor=white)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-252525?style=flat-square)
+![Inno Setup](https://img.shields.io/badge/Inno_Setup-252525?style=flat-square)
 
-Também pratico **orientação a objetos, estruturas de dados, alocação dinâmica em C, APIs REST, Fetch API, validação de formulários, interfaces responsivas, localStorage, exportação CSV e empacotamento de aplicações**. Nos estudos de Node.js, utilizo **TypeORM**; nas integrações web, **Leaflet** e **OpenFeign**.
+Também pratico **orientação a objetos, estruturas de dados, alocação dinâmica em C, APIs REST, Fetch API, validação de formulários, interfaces responsivas, localStorage, exportação CSV e empacotamento de aplicações**. Utilizo **Postman, Insomnia e Swagger UI** para explorar e testar APIs; nos projetos Java, também estudo **Jakarta Validation** e documentação com **springdoc-openapi**.
 
 <a href="https://github.com/Adriannoo"><img width="700" src="https://github-stats-extended.vercel.app/api?username=Adriannoo&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars%2Cissues&amp;hide_border=true&amp;bg_color=0d0d0d&amp;title_color=ffffff&amp;icon_color=dddddd&amp;text_color=d6d6d6&amp;locale=pt-br&amp;custom_title=Atividade+no+GitHub&amp;card_width=700" alt="Resumo de commits, pull requests e contribuições públicas de Adriano Ramos"></a>
 
