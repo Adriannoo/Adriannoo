@@ -4,7 +4,7 @@
 
 Estudante de **Engenharia de Software / Análise e Desenvolvimento de Sistemas**.
 
-Tenho projetos acadêmicos em desenvolvimento web, aplicações desktop e jogos. Pratico criação e consumo de APIs, persistência de dados, validações, testes automatizados e organização de código.
+Tenho projetos em desenvolvimento web, aplicações desktop e jogos. Pratico criação e consumo de APIs, persistência de dados, validações, testes automatizados e organização de código.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profissional-252525?style=flat-square)](https://www.linkedin.com/in/adriannoo-ramos/)
 [![Projetos](https://img.shields.io/badge/GitHub-Meus_projetos-252525?style=flat-square&logo=github&logoColor=white)](https://github.com/Adriannoo?tab=repositories)
